@@ -1,4 +1,5 @@
 #include "sort.h"
+#include "swap.c"
 
 /**
 * bubble_sort - Sorts array using bubble sort
