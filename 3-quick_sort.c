@@ -1,5 +1,5 @@
 #include "sort.h"
-
+#include "swap.c"
 /**
 * partition - Partitions an array
 * @arr: Array to be sorted
